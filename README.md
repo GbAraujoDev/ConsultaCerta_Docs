@@ -56,4 +56,4 @@ O **Consulta Certa** nasceu para solucionar a dificuldade de acesso a serviços 
 * **Luiz Gustavo Fernandes Ribeiro**
 * **Emily Alves Costa**
 ---
-*Documentação gerada para a disciplina de Projeto Eixo - 2026*
+*Documentação gerada para a disciplina de Projeto Eixo 1 - 2026*
