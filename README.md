@@ -26,13 +26,13 @@ O **Consulta Certa** nasceu para solucionar a dificuldade de acesso a serviços 
 | **RF-05** |Enviar notificações com lembretes sobre consultas e exames agendados| Paciente| Ser lembrado acerca dos compromissos hospitalares sem necessariamente precisar abrir o aplicativo.|Diminuir as chances de esquecimentos dos dados das consultas e exames| Gabriel | Configurações/Api |
 | **RF-06** |Exibir orientações sobre documentos necessários e preparo para exames.| Paciente| Visualizar as orientações.| Se antecipar para o caso de jejuns necessários para exames e para providenciar documentos.| | |
 | **RF-07** |Permitir a confirmação de presença no atendimento.| Paciente |Confirmar minha presença a consulta.| Atualizar o status do agendamento e evitar marcação indevida de falta (absenteísmo). | Emily | Config |
-| **RF-08** | Permitir o informe de cancelamento. | Paciente | Cancelar minha presença a consulta. | Informar sobre o meu não comparecimento na consulta sem precisar ir até a instituição fisicamente.| | |
+| **RF-08** | Permitir o informe de cancelamento. | Paciente | Cancelar minha presença a consulta. | Informar sobre o meu não comparecimento na consulta sem precisar ir até a instituição fisicamente.| Kauan | |
 | **RF-09** | Armazenar o histórico de atendimentos, consultas, exames e faltas.| Paciente ou Profissional |Acessar registros de eventos médicos e administrativos passados. |Ter uma visão completa da jornada do paciente e auxiliar na tomada de decisão clínica.| Gabriel |Prontuário / Histórico|
 | **RF-10** | O sistema deve disponibilizar um painel administrativo com relatórios de agendamentos, confirmações, cancelamentos e faltas. | Profissional de saúde |Visualizar os  dados de cada paciente  pertinentes a mim.|Ter uma base dados para me | ||
-| **RF-11** | O sistema deve ter um tamanho de fonte ajustável. | Paciente |Facilitar a visualização das informações | Facilitar a visualização das informações.| |Todas|
-| **RF-12** |O sistema deve permitir o envio de documentos digitais relacionados ao atendimento. | Paciente ou Profissional|Realizar o upload de exames, receitas e laudos (PDF/Imagens).|Centralizar o histórico médico e facilitar a consulta durante o atendimento.| | |
+| **RF-11** | O sistema deve ter um tamanho de fonte ajustável. | Paciente |Facilitar a visualização das informações | Facilitar a visualização das informações.| Kauan |Todas|
+| **RF-12** |O sistema deve permitir o envio de documentos digitais relacionados ao atendimento. | Paciente ou Profissional|Realizar o upload de exames, receitas e laudos (PDF/Imagens).|Centralizar o histórico médico e facilitar a consulta durante o atendimento.| Luiz Gustavo | |
 | **RF-13** | O sistema deve permitir notificações em tempo real sobre alterações nos agendamentos.| Paciente ou Profissional| Receber alertas imediatos sobre confirmações, cancelamentos ou atrasos.|Evitar desencontros e manter a agenda sempre atualizada para ambas as partes.| | |
-| **RF-14** |O sistema deve permitir integração futura com sistemas do SUS. | Administrador |Estruturar os dados conforme padrões de interoperabilidade de saúde. |Garantir que os dados possam ser partilhados com a rede pública no futuro.| ||
+| **RF-14** |O sistema deve permitir integração futura com sistemas do SUS. | Administrador |Estruturar os dados conforme padrões de interoperabilidade de saúde. |Garantir que os dados possam ser partilhados com a rede pública no futuro.|Luiz Gustavo||
 ---
 
 ## ⚙️ Requisitos Não Funcionais (RNF)
