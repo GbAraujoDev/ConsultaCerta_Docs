@@ -1,4 +1,4 @@
-# 🏥 Projeto Eixo - Consulta Certa
+# 🏥 Projeto Eixo 1 - Consulta Certa
 
 > **Sistema inteligente de agendamento e histórico médico focado em acessibilidade para idosos e inclusão digital.**
 
