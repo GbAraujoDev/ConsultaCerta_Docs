@@ -21,10 +21,10 @@
 O **Consulta Certa** nasceu de uma necessidade latente: eliminar as barreiras que impedem pessoas com baixa familiaridade tecnológica de gerirem sua própria saúde. Em um mundo cada vez mais digital, muitas vezes o paciente acaba excluído por interfaces complexas. Nosso sistema inverte essa lógica, oferecendo uma experiência centralizada, humana e descomplicada.
 
 ## 🎯 Objetivos
-* **Simplificar** o agendamento de consultas e exames.
-* **Centralizar** o histórico clínico (laudos, receitas e faltas).
-* **Notificar** usuários em tempo real para reduzir o absenteísmo.
-* **Garantir** a segurança dos dados sensíveis conforme a **LGPD**.
+* **Agendamento Simplificado:** Fluxo intuitivo para marcação de consultas e exames com poucos cliques.
+* **Prontuário Unificado:** Centralização de histórico clínico (laudos, receitas e registros) em um ambiente seguro.
+* **Gestão de Absenteísmo:** Notificações em tempo real para reduzir faltas e otimizar a agenda médica.
+* **Segurança (LGPD):** Proteção rigorosa de dados sensíveis de saúde, garantindo privacidade e conformidade legal.
 
 ---
 
