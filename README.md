@@ -2,6 +2,19 @@
 
 > **Sistema inteligente de agendamento e histórico médico focado em acessibilidade para idosos e inclusão digital.**
 
+<p align="center">
+  <img src="consulta_img.png" width="300">
+</p>
+
+---
+
+## 🛠️ Tecnologias
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma" />
+  </a>
+</p>
+
 ---
 
 ## 📝 Sobre o Projeto
