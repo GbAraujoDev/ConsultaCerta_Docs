@@ -18,7 +18,7 @@
 ---
 
 ## 📝 Sobre o Projeto
-O **Consulta Certa** nasceu para solucionar a dificuldade de acesso a serviços de saúde por pessoas com baixa familiaridade tecnológica. O sistema centraliza agendamentos, documentos e históricos médicos em uma interface simples, intuitiva e segura.
+O **Consulta Certa** nasceu de uma necessidade latente: eliminar as barreiras que impedem pessoas com baixa familiaridade tecnológica de gerirem sua própria saúde. Em um mundo cada vez mais digital, muitas vezes o paciente acaba excluído por interfaces complexas. Nosso sistema inverte essa lógica, oferecendo uma experiência centralizada, humana e descomplicada.
 
 ## 🎯 Objetivos
 * **Simplificar** o agendamento de consultas e exames.
